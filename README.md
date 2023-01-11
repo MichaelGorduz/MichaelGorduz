@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @MichaelGorduz
-50%QA and 50%Front-End Developer:)
+- 👋 Hi, my name is Michael Gorduz
+I am 50%QA and 50%Front-End Developer:)
